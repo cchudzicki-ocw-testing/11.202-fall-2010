@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Math Review
+type: CourseSection
 uid: 5434cafa-77d8-f524-cbd5-94e9aaf797fa
 ---
 

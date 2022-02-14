@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Related Resources
+type: CourseSection
 uid: 8b116822-99af-5f06-1079-f4676885aac1
 ---
 
