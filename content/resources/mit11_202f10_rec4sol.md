@@ -4,6 +4,7 @@ description: This resource contains information related to final exam review top
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/11-202-planning-economics-fall-2010/18dd777fff9d4496a0b503c5272439bc_MIT11_202F10_rec4sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Math Review
 parent_type: CourseSection
 resourcetype: Document
