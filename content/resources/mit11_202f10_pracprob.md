@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: MIT11_202F10_pracprob.pdf
-type: OCWFile
 uid: 20990e50-1ef2-7e35-d1e7-d3b73d5f9bca
 ---

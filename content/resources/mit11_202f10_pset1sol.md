@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: MIT11_202F10_pset1sol.pdf
-type: OCWFile
 uid: da2c9e82-2c6b-a091-07f5-9facc3e771e8
 ---

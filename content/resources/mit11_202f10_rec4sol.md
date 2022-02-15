@@ -8,6 +8,5 @@ parent_title: Math Review
 parent_type: CourseSection
 resourcetype: Document
 title: MIT11_202F10_rec4sol.pdf
-type: OCWFile
 uid: 18dd777f-ff9d-4496-a0b5-03c5272439bc
 ---

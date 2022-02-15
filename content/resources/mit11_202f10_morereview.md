@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: MIT11_202F10_morereview.pdf
-type: OCWFile
 uid: cbe2ef24-f5b0-b508-209e-39898e7b06a0
 ---
