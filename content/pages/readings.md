@@ -77,9 +77,9 @@ Congressional Budget Office. "How Policies to Reduce Greenhouse Gas Emissions Co
 
 [Econ 101: Carbon Tax vs. Cap-and-Trade](http://www.env-econ.net/carbon_tax_vs_capandtrade.html). Environmental Economics: Economists on Environmental and Natural Resources.
 
-**Slides**: Michael Greenstone- "5 Facts about Climate Change: Cause for a Shift in Policy?" ([PDF]({{< baseurl >}}/resources/mit11_202f10_5facts))
+**Slides**: Michael Greenstone- "5 Facts about Climate Change: Cause for a Shift in Policy?" ({{< resource_link 0a5884e9-505f-a195-75f6-32c12b791cc4 "PDF" >}})
 
-**Slides**: Michael Geenstone- "The Social Cost of Carbon, Cost-Benefit Analysis, and Rational Climate Policy." ([PDF - 1.1MB]({{< baseurl >}}/resources/mit11_202f10_socialcost))
+**Slides**: Michael Geenstone- "The Social Cost of Carbon, Cost-Benefit Analysis, and Rational Climate Policy." ({{< resource_link b38cb92e-faed-887a-24ee-a747b2938917 "PDF - 1.1MB" >}})
 
 (The slides above were courteys of Michael Greenstone. Used with permission).
 
