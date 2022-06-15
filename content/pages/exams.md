@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the final exam for the course with solutions, and
+  review materials on the economic structure of cities and planning economics.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

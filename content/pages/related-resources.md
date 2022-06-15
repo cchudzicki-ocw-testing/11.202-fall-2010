@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains supplementary resources on economics, calculus
+  and utility functions, a tax incidence problem, and summary earning statistics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
