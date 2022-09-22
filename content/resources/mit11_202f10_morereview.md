@@ -5,6 +5,7 @@ file: /courses/11-202-planning-economics-fall-2010/cbe2ef24f5b0b508209e39898e7b0
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
